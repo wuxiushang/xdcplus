@@ -1,0 +1,20 @@
+{
+    "name": "simms.hu/xdcplus",
+    "description": "sdfasdfsafdsf",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wuxiushang",
+            "email": "573575503@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Custom\\": "src/custom/"
+        }
+    },
+    "require": {
+      "php": ">=7.0.0",
+      "guzzlehttp/guzzle": "^6.3"
+    }
+}
