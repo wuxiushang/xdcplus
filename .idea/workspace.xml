@@ -1,113 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9223a9a-bd3e-4c25-b79a-3141fc6f0d8d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/LICENSE" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/README.md" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/UPGRADING.md" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/UPGRADING.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/composer.json" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Client.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Client.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/ClientInterface.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/ClientInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/CookieJarInterface.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/CookieJarInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/SetCookie.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/SetCookie.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/BadResponseException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/BadResponseException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ClientException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ClientException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ConnectException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ConnectException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/GuzzleException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/GuzzleException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/SeekException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/SeekException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ServerException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ServerException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/TransferException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/TransferException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlFactoryInterface.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlFactoryInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlMultiHandler.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlMultiHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/EasyHandle.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/EasyHandle.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/MockHandler.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/MockHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/HandlerStack.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/HandlerStack.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/MessageFormatter.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/MessageFormatter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Middleware.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Middleware.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Pool.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Pool.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RequestOptions.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RequestOptions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RetryMiddleware.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RetryMiddleware.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/TransferStats.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/TransferStats.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/UriTemplate.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/UriTemplate.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/functions.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/functions_include.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/functions_include.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/LICENSE" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/Makefile" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/README.md" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/composer.json" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/AggregateException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/AggregateException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/CancellationException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/CancellationException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/Coroutine.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/Coroutine.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/EachPromise.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/EachPromise.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/FulfilledPromise.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/FulfilledPromise.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/Promise.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/Promise.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/PromiseInterface.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/PromiseInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/PromisorInterface.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/PromisorInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/RejectedPromise.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/RejectedPromise.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/RejectionException.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/RejectionException.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/TaskQueue.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/TaskQueue.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/TaskQueueInterface.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/TaskQueueInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/functions.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/functions_include.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/functions_include.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/LICENSE" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/README.md" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/composer.json" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/AppendStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/AppendStream.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/BufferStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/BufferStream.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/CachingStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/CachingStream.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/DroppingStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/DroppingStream.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/FnStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/FnStream.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/InflateStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/InflateStream.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/LazyOpenStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/LazyOpenStream.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/LimitStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/LimitStream.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/MessageTrait.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/MessageTrait.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/MultipartStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/MultipartStream.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/NoSeekStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/NoSeekStream.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/PumpStream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/PumpStream.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Request.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Request.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Response.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Response.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/ServerRequest.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/ServerRequest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Stream.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Stream.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/StreamDecoratorTrait.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/StreamDecoratorTrait.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/StreamWrapper.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/StreamWrapper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/UploadedFile.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/UploadedFile.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Uri.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Uri.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/UriNormalizer.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/UriNormalizer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/UriResolver.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/UriResolver.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/functions.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/functions_include.php" afterPath="$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/functions_include.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/CHANGELOG.md" afterPath="$PROJECT_DIR$/vendor/psr/http-message/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/LICENSE" afterPath="$PROJECT_DIR$/vendor/psr/http-message/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/README.md" afterPath="$PROJECT_DIR$/vendor/psr/http-message/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/composer.json" afterPath="$PROJECT_DIR$/vendor/psr/http-message/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/src/MessageInterface.php" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/MessageInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/src/RequestInterface.php" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/RequestInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/src/ResponseInterface.php" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/ResponseInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/src/ServerRequestInterface.php" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/ServerRequestInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/src/StreamInterface.php" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/StreamInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/src/UploadedFileInterface.php" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/UploadedFileInterface.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/psr/http-message/src/UriInterface.php" afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/UriInterface.php" />
-    </list>
+    <list default="true" id="b9223a9a-bd3e-4c25-b79a-3141fc6f0d8d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,6 +19,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
               <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -259,24 +163,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527384533538</updated>
-      <workItem from="1527384535716" duration="5154000" />
+      <workItem from="1527384535716" duration="5381000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5154000" />
+    <option name="totallyTimeSpent" value="5381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="382" y="49" width="1418" height="851" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24442793" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24442793" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21148036" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38670695" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
